@@ -18,6 +18,7 @@ Check out our latest competition: [ACM ICAIF 2023 FinRL Contest](https://finrl-c
 [![](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRL-Meta&countColor=%23B17A)
+[![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
 Check out the [FinRL®](https://github.com/AI4Finance-Foundation/FinRL) Project
 
